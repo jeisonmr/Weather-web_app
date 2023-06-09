@@ -1,0 +1,19 @@
+// @import '../../styles/sass/main';
+
+$cl-font-1: #FFFFFF;
+
+.navContainer {
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navMenu > li{
+      margin-bottom: 20px;
+}
+.navItem {
+  color: $cl-font-1;
+  margin-left: 10px;
+}
